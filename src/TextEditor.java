@@ -10,7 +10,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class TextEditor extends JFrame {
-    String filePath = "";
+    String filePath = ""; 
     boolean useRegex = false;
     boolean isNewFile;
     int newFileCounter = 1;
