@@ -1,4 +1,8 @@
 .DS_Store
 .idea
-out
-New\ Text \Editor.iml
+
+#ignore out folder
+out/*
+
+#ingore iml file
+*.iml
