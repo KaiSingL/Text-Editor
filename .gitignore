@@ -6,3 +6,7 @@ out/*
 
 #ingore iml file
 *.iml
+
+# Default ignored files
+/shelf/
+/workspace.xml
